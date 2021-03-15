@@ -32,9 +32,6 @@
     <ClCompile Include="17TH_N1_02.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="alo.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="17TH_N1_02.rc">

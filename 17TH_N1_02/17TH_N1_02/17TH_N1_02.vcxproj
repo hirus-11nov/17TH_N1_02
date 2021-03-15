@@ -146,7 +146,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="17TH_N1_02.cpp" />
-    <ClCompile Include="alo.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="17TH_N1_02.rc" />
