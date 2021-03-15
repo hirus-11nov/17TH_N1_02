@@ -146,6 +146,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="17TH_N1_02.cpp" />
+    <ClCompile Include="ae.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="17TH_N1_02.rc" />
